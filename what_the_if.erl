@@ -13,9 +13,8 @@ heh_fine() ->
     end.
 
 oh_god(N) ->
-    if N =:= 2 ->
-        might_succeed;
-        true -> always_does %% this is Erlang's if's 'else!'
+    if N =:= 2 -> might_succeed;
+       true -> always_does %% this is Erlang's if's 'else!'
     end.
 
 help_me(Animal) ->

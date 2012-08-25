@@ -6,4 +6,4 @@ Nothing really exciting here, just working through the code examples in
 # [Bookmark][2]
 
 [1]: http://learnyousomeerlang.com/
-[2]: http://learnyousomeerlang.com/types-or-lack-thereof
+[2]: http://learnyousomeerlang.com/higher-order-functions
