@@ -6,4 +6,4 @@ Nothing really exciting here, just working through the code examples in
 # [Bookmark][2]
 
 [1]: http://learnyousomeerlang.com/
-[2]: http://learnyousomeerlang.com/errors-and-exceptions
+[2]: http://learnyousomeerlang.com/functionally-solving-problems
